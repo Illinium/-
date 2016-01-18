@@ -1,0 +1,19 @@
+body,
+html {
+	min-height: 100%;
+}
+body { background-image: url('6771656-awesome-background-pictures.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+#Aa {
+	display: inline-block;
+	height: 200px;
+	background-color: green;
+	background-size: cover;
+}
+#wss{
+    opacity:0;
+    -webkit-transition:opacity 1.0s linear 0s;
+    transition:opacity 1.0s linear 0s;
+}
